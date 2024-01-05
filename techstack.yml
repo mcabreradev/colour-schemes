@@ -1,7 +1,8 @@
 repo_name: mcabreradev/colour-schemes
 report_id: efcc3307ec3b2a33cd5c919ba774b72c
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-14T15:30:58+00:00'
+timestamp: '2024-01-05T08:44:22+00:00'
 requested_by: jamescjohns
 provider: github
 branch: master
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/mcabreradev/colour-schemes
   detection_source: Repo Metadata
 - name: PHP
   description: A popular general-purpose scripting language that is especially suited
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg
+  detection_source_url: https://github.com/mcabreradev/colour-schemes
   detection_source: Repo Metadata
 - name: Twig
   description: A flexible, fast, and secure template engine
@@ -34,6 +37,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1642/default_3debd3a9a6d757c011130c7a9626e7c3bd8be945.png
+  detection_source_url: https://github.com/mcabreradev/colour-schemes/blob/master/build/composer.json
   detection_source: build/composer.json
   last_updated_by: Dayle Rees
   last_updated_on: 2014-02-09 15:13:42.000000000 Z
@@ -45,6 +49,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/mcabreradev/colour-schemes
   detection_source: Repo Metadata
 - name: PHPUnit
   description: Testing framework for PHP
@@ -56,7 +61,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Testing Frameworks
   image_url: https://img.stackshare.io/service/1616/1_WsEnddd5Y4EgEHsT054kUQ.jpeg
-  detection_source_url: build/composer.lock
+  detection_source_url: https://github.com/mcabreradev/colour-schemes/blob/master/build/composer.lock
   detection_source: build/composer.json
   last_updated_by: Dayle Rees
   last_updated_on: 2014-02-09 15:13:42.000000000 Z
